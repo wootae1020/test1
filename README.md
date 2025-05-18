@@ -10,4 +10,4 @@
 - 컴페티션 진행
 
 ## 🔗 Notion 상세 리포트
-👉 [여기에 Notion 링크 붙이기]
+👉 [[여기에 Notion 링크 붙이기](https://www.notion.so/1f7677f310e680e89954fb395cb7d82f)]
